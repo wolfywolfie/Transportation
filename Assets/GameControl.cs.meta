@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 351d3a05d3816c74f95a0f7bfcacc494
+timeCreated: 1510516106
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mainCube: {fileID: 1430203206458130, guid: d537e0df18f8b1444a289e74cd0f6831, type: 2}
+  - scoreText: {instanceID: 0}
+  - depotNoise: {fileID: 1879805530981812, guid: 01c84f84ddd602c4ba3ca1fdb7d8f414,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

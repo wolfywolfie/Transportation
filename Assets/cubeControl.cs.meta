@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d3d610fd8f673a942ac3ad8489ec2bd9
+timeCreated: 1510514309
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - noisePlane: {fileID: 1311295954101042, guid: fe58bb8c9962a5842b1c153fbd4094f9,
+      type: 2}
+  - boatNoise: {fileID: 1795770361913458, guid: 4a30846ba1c3dd24bb57033e79c94744,
+      type: 2}
+  - trainNoise: {fileID: 1345048193986190, guid: df4c735d0bd00ec4c93a182ab7b37e52,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
